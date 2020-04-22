@@ -10,7 +10,7 @@ Format: ![Class Diagram]
 
 ### Sequence Diagram
 This sequence diagram is for check-out and print bill invoice method
-![Sequence Diagram](/img/sequence.png)
+![Sequence Diagram](img/squence.jpg)
 
 ## Assumptions made in this program:
 - The currency will be in Singapore Dollar (SGD)
