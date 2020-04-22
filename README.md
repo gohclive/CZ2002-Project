@@ -6,7 +6,6 @@ and displaying of records. It is solely used by the hotel staff.
 ## Unified Modeling Language (UML)
 ### Class Diagram
 ![Class Diagram](/img/class.jpg)
-Format: ![Class Diagram]
 
 ### Sequence Diagram
 This sequence diagram is for check-out and print bill invoice method
