@@ -1,0 +1,8 @@
+S8594844F|Kwok How|Male|Singaporean|Singapore|90832211|Houstan Abe 8|7777-3333-1111-2222|
+S100100A|May|Female|Korean|korea|00933322|Circular Road 90|9000-1111-2221-6711|
+S802222A|Jonth|Male|singaporean|Montigo|08844233|blk 39898fhjfe|8888-1111-2222-3333|
+AS2412431|James|Male|Singaporean|Singapore|81119111|abc avenue 10 blk 123|1234-1123-4123-4124|
+S9616970A|Logan|Male|Singaporean|Singapore|90821100|Blk 909 jovei|0000-3333-3333-2222|
+S200200A|Uri|Female|Japanese|Japan|99831111|Poland road 23|2000-2222-1111-3333|
+F100200|Fiona|Female|korean|korea|909332222|blk 283 unity|9900-3333-2222-1111|
+0001234A|Pola|Male|korean|korea|09033333|unity road|3333-1111-2222-2222|

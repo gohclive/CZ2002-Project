@@ -1,0 +1,12 @@
+1|Bowl of salad|Avocado, Radish, Tomatoes & Cheese|2.0|0|
+2|Mushroom Soup|Creamy Mushroom Soup with Onions|2.0|0|
+3|Char Siew Rice|Fragrant Rice with Barbecued Pork|3.0|1|
+4|Chicken Rice|Fragrant Rice with Roasted Chicken|3.0|1|
+5|Duck Rice|Fragrant Rice with Braised Duck|3.5|1|
+6|Coke|Can of Coca cola|2.0|2|
+7|Sprite|Can of Sprite (330ML)|2.0|2|
+8|Mineral Water|Bottle of Mineral Water (500ML)|1.0|2|
+9|Donut|Small and round|1.5|0|
+10|potato Chip|potato Chip|2.0|0|
+11|Roller Chips|potato Chip|3.0|0|
+12|Apple Juice|Juice with apple|4.0|2|
