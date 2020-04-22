@@ -24,6 +24,9 @@ This sequence diagram is for check-out and print bill invoice method
 
 ## Contributions
 [Clive Goh](http://www.github.com/gohclive)
+
 [Lyon Ng](http://www.github.com/lyon_nhk) 
+
 [Tan Kwok How](https://github.com/AveragePudding)
+
 [Joash Yeong]
