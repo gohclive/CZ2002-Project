@@ -14,7 +14,7 @@ This sequence diagram is for check-out and print bill invoice method
 ## Assumptions made in this program:
 - The currency will be in Singapore Dollar (SGD)
 - There is no need to interface with external systems, e.g. Payment, printer, etc.
-- Payments areis always successful.
+- Payments are always successful.
 - No need to log in - features
 - No graphical interface for selection of rooms.
 - The hotel has 48 rooms (of various type) from 02 – 07 level and the room number format is
@@ -28,4 +28,4 @@ This sequence diagram is for check-out and print bill invoice method
 
 [Tan Kwok How](https://github.com/AveragePudding)
 
-[Joash Yeong]
+[Joash Yeong](https://github.com/joashyeong)
